@@ -37,3 +37,4 @@ docker-compose up -d
 docker-compose run --rm app bundle exec ruby oclc_ftp_downloader.rb
 
 ## Flowchart
+![downloadflow](https://github.com/dfulmer/oclc-download-files/assets/18075253/77721e03-7fff-48ab-aa41-2a8bb0d093b5)
